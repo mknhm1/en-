@@ -1,4 +1,4 @@
-package ennsyuu.en11;
+package en11;
 import java.util.Scanner;
 
 // class Circle {
@@ -15,6 +15,21 @@ import java.util.Scanner;
 
 //     }
 // }
+
+
+    class Circle {
+        double PI = 3.1415;
+    
+        double circumference(int radius) {
+            double circle = (radius * 2) * PI;
+            return circle;
+        }
+    
+        double area(int radius) {
+            double circleArea = PI * radius * radius;
+            return circleArea;
+        }
+    }
 
 public class en_11_1 {
     public static void main(String[] args) {
