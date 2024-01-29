@@ -11,7 +11,7 @@
 //     }
 // }
 
-package en14.en14_1;
+package en14.en_14_1;
 
 import java.util.Scanner;
 
