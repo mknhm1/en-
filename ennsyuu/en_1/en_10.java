@@ -1,3 +1,4 @@
+package en_1;
 import java.util.Scanner;
 public class en_10 {
     public static void main(String[ ]args){
